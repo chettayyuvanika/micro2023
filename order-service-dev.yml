@@ -1,5 +1,5 @@
 test:
-  message: Hello from dev
+  message: Hello from dev testing
 
 server:
   port: 9082
